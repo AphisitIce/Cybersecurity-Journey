@@ -32,7 +32,7 @@ This section documents my hands-on learning experience in Cyber101, covering cyb
 
 ## Status
 
-✅ Ongoing Learning Journey
+✅ Completed
 
 ---
 
